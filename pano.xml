@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour hassounds="1" start="node1" apprev="20913" appversion="7.1.2">
+  <panorama id="node1">
+    <input leveltilesize="510" overlap="1" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="320" levelingpitch="0" height="320">
+      <level preload="1" width="320" predecode="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="-180" fovpixel="2" tilt="-30.6044"/>
+      <max pan="180" fovstereographic="330" fovfisheye="360" tilt="30.6044" fov="140"/>
+    </view>
+    <userdata latitude="" heading="0" source="" tags="Downloads" author="" comment="" title="" copyright="" nodeid="node1" customnodeid="" longitude="" datetime="" info="" description=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label height="20" background="1" textalpha="1" borderradius="1" enabled="1" borderalpha="1" wordwrap="1" backgroundalpha="1" width="180" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000"/>
+      <polystyle borderalpha="1" backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot pan="-324.82" url="images/staff.jpg" skinid="ht_image" id="Point01" title="Staff Galleri" target="" tilt="0.82" description=""/>
+      <hotspot pan="-70.29" url="images/kedai.jpg" skinid="ht_image" id="Point02" title="Kedai Makan" target="" tilt="-4.94" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" zoomfov="40" blendtime="1" zoomspeed="2" softedge="0" zoomin="0" zoomout="0" type="crossdissolve" delay="none" enabled="1" zoomafterinfov="140" zoomafteroutfov="40" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control contextfullscreen="1" zoomcentercursor="1" dblclickfullscreen="0" sensitivity="8" simulatemass="1" lockedkeyboardzoom="0" rubberband="0" speedwheel="1" invertcontrol="1" lockedmouse="0" contextvr="1" hideabout="0" lockedwheel="0" contextprojections="0" invertwheel="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input leveltilesize="510" overlap="1" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="320" levelingpitch="0" height="320">
+      <level preload="1" width="320" predecode="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="-180" fovpixel="2" tilt="-30.6044"/>
+      <max pan="180" fovstereographic="330" fovfisheye="360" tilt="30.6044" fov="140"/>
+    </view>
+    <userdata latitude="" heading="0" source="" tags="Projek" author="" comment="" title="" copyright="" nodeid="node5" customnodeid="" longitude="" datetime="" info="" description=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label height="20" background="1" textalpha="1" borderradius="1" enabled="1" borderalpha="1" wordwrap="1" backgroundalpha="1" width="180" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000"/>
+      <polystyle borderalpha="1" backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot pan="-204.03" url="images/ikan2.jpg" skinid="ht_image" id="Point01" title="Produk Pekasam" target="" tilt="-15.53" description=""/>
+      <hotspot pan="-35.07" url="" skinid="ht_info" id="Point02" title="Kuih - Muih" target="" tilt="-9.14" description="Kuih - Muih yang dijual sebagai sumber tambahan"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" zoomfov="40" blendtime="1" zoomspeed="2" softedge="0" zoomin="0" zoomout="0" type="crossdissolve" delay="none" enabled="1" zoomafterinfov="140" zoomafteroutfov="40" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control contextfullscreen="1" zoomcentercursor="1" dblclickfullscreen="0" sensitivity="8" simulatemass="1" lockedkeyboardzoom="0" rubberband="0" speedwheel="1" invertcontrol="1" lockedmouse="0" contextvr="1" hideabout="0" lockedwheel="0" contextprojections="0" invertwheel="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input leveltilesize="510" overlap="1" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="320" levelingpitch="0" height="320">
+      <level preload="1" width="320" predecode="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="-180" fovpixel="2" tilt="-30.8123"/>
+      <max pan="180" fovstereographic="330" fovfisheye="360" tilt="30.8123" fov="140"/>
+    </view>
+    <userdata latitude="" heading="0" source="" tags="Downloads" author="" comment="" title="" copyright="" nodeid="node3" customnodeid="" longitude="" datetime="" info="" description=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label height="20" background="1" textalpha="1" borderradius="1" enabled="1" borderalpha="1" wordwrap="1" backgroundalpha="1" width="180" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000"/>
+      <polystyle borderalpha="1" backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot pan="-132.82" url="media/interview.mp4" skinid="ht_video_file" id="Point01" title="Interview bersama Kiah" target="" tilt="-17.71" description=""/>
+      <hotspot pan="-273.16" url="" skinid="ht_info" id="Point02" title="Produk " target="" tilt="-23.38" description="Produk yang siap dibungkus untuk proses penghantaran"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" zoomfov="40" blendtime="1" zoomspeed="2" softedge="0" zoomin="0" zoomout="0" type="crossdissolve" delay="none" enabled="1" zoomafterinfov="140" zoomafteroutfov="40" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control contextfullscreen="1" zoomcentercursor="1" dblclickfullscreen="0" sensitivity="8" simulatemass="1" lockedkeyboardzoom="0" rubberband="0" speedwheel="1" invertcontrol="1" lockedmouse="0" contextvr="1" hideabout="0" lockedwheel="0" contextprojections="0" invertwheel="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input leveltilesize="510" overlap="1" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="320" levelingpitch="0" height="320">
+      <level preload="1" width="320" predecode="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="-180" fovpixel="2" tilt="-30.8123"/>
+      <max pan="180" fovstereographic="330" fovfisheye="360" tilt="30.8123" fov="140"/>
+    </view>
+    <userdata latitude="" heading="0" source="" tags="Downloads" author="" comment="" title="" copyright="" nodeid="node4" customnodeid="" longitude="" datetime="" info="" description=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label height="20" background="1" textalpha="1" borderradius="1" enabled="1" borderalpha="1" wordwrap="1" backgroundalpha="1" width="180" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000"/>
+      <polystyle borderalpha="1" backgroundalpha="0.25098" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot pan="-348.4" url="" skinid="ht_info" id="Point01" title="Pecapaian" target="" tilt="0.69" description="Sijil-Sijil yang telah diperolehi oleh Galeri Ikan Pekasam"/>
+      <hotspot pan="-200.22" url="images/alat.jpg" skinid="ht_image" id="Point02" title="Peralatan " target="" tilt="-13.56" description=""/>
+      <hotspot pan="-154.45" url="" skinid="ht_info" id="Point03" title="Mesin Packaging" target="" tilt="-25.15" description="Mesin yang diggunakan untuk proses packaging ikan pekasam yang sudah siap diperap"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" zoomfov="40" blendtime="1" zoomspeed="2" softedge="0" zoomin="0" zoomout="0" type="crossdissolve" delay="none" enabled="1" zoomafterinfov="140" zoomafteroutfov="40" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control contextfullscreen="1" zoomcentercursor="1" dblclickfullscreen="0" sensitivity="8" simulatemass="1" lockedkeyboardzoom="0" rubberband="0" speedwheel="1" invertcontrol="1" lockedmouse="0" contextvr="1" hideabout="0" lockedwheel="0" contextprojections="0" invertwheel="0" lockedkeyboard="0"/>
+  </panorama>
+  <masternode>
+    <userdata tags="" author="" comment="" title="" copyright="" description=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
